@@ -15,6 +15,7 @@ Copy
 Edit
 git clone https://github.com/Ashubegum-11/ai-workflow-assistant.git
 cd ai-workflow-assistant
+
 2️⃣ Install Required Libraries
 bash
 Copy
@@ -25,6 +26,7 @@ bash
 Copy
 Edit
 pip install streamlit google-generativeai
+
 3️⃣ Set Your Gemini API Key
 Create a folder and file:
 markdown
